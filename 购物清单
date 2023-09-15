@@ -218,7 +218,7 @@ int main(void) {
 		else if (x == 9) // 合并购物清单
 		{
 			printf("输入要合并的购物清单\n");
-			// 创建第一个购物清单（已经在之前的代码中）
+			// 创建第一个购物清单
 			struct ShoppingItem* list1 = shoppingList;
 
 			// 创建第二个购物清单
